@@ -1,4 +1,6 @@
 # doit
+[![asciicast](https://asciinema.org/a/jkPtGtg1HqBgb4neMxLqYTDi6.svg)](https://asciinema.org/a/jkPtGtg1HqBgb4neMxLqYTDi6)
+
 
 doit is a simple, minimal todo list app. Written in Python
 
